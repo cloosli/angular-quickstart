@@ -25,4 +25,4 @@ var AppModule = (function () {
     return AppModule;
 }());
 exports.AppModule = AppModule;
-//# sourceMappingURL=app.modules.js.map
+//# sourceMappingURL=app.module.js.map
